@@ -1,17 +1,27 @@
 package org.example;
 
+
+
 import java.util.List;
 
 public class Main {
 
+//    private static StringList stringList;
+
     public static void main(String[] args) {
-//        System.out.println("ArrayList");
+        
+        System.out.println("ArrayList");
+        
+        
 //        String what[] = new String[10];
 //        what[1] = "Hi";
+//        StringList stringList;
 //        StringList stringList = new StringListImpl();
+//        stringList.add(4, "bhnjh");
 //
 //        System.out.println("String add(String item);");
-//        System.out.println(stringList.add("item1"));
+       
+//        stringList.add("item1");
 //
 //        System.out.println("String add(int index, String item);");
 //        System.out.println(stringList.add(9,"item2"));
